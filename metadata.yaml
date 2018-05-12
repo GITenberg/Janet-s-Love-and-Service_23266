@@ -1,0 +1,34 @@
+_repo: Janet-s-Love-and-Service_23266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson, Margaret M. (Margaret Murray)
+    alias: Robertson, Margaret Murray
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '9785'
+    url: http://www.gutenberg.org/2009/agents/9785
+description: ''
+gutenberg_issued: '2007-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Clergy -- Family relationships -- Fiction'
+- !lcsh 'Family -- Fiction'
+- !lcsh 'Motherless families -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Scotland -- Emigration and immigration -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+title: Janet's Love and Service
+url: http://www.gutenberg.org/ebooks/23266
